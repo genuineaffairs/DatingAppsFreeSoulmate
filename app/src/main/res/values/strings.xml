@@ -1,0 +1,35 @@
+﻿<resources>
+    <string name="app_name">Soulmate Dating App Free</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phonetext">Enter a phone number that can be used to verify your identity with a text message or phone call. </string>
+
+    <string name="facebook_app_id">2225802650776046</string>
+    <string name="fb_login_protocol_scheme">fb2225802650776046</string>
+
+    <string name="admob_app_id">ca-app-pub-4658910366293213~9211871385</string>
+
+    <string name="my_Interstitial_Add">ca-app-pub-4658910366293213/2646463039</string>
+
+    <string name="my_Interstitial_Add_2">ca-app-pub-4658910366293213/4237434190</string>
+
+    <string name="subscription_txt">By tapping “Continue”, your payment will be charged to your Google Play
+        account, and your subscription will automatically renew for the same
+        package length at the same price until you cancel it in settings in the
+        Google Play store at least 24 hours prior to the end of the current period.
+        By tapping “Continue”, you agree to our Privacy Policy and Terms.</string>
+
+    <string name="giphy_api">cSaTF4Z1U1GWQb2iri1nGY4HaoUFlGAZ</string>
+
+    <string name="version">1.23</string>
+
+    <string name="device">android</string>
+
+    <string name="next_text">  \n
+                             ❤ Search For Partner\n
+                             ❤ Find Your Soulmate\n
+                             ❤ Start Chat\n
+                             ❤ Make Love\n </string>
+
+</resources>
